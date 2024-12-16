@@ -1,0 +1,20 @@
+name: fiberphotometry_2024
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- jupyterlab
+- pandas
+- xlrd
+- openpyxl
+- numpy
+- scipy
+- scikit-learn
+- statsmodels
+- matplotlib
+- tqdm
+- nodejs
+- ipywidgets
+

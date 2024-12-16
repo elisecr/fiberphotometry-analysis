@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+dependencies:
+  - black
+  - jupyter
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - plotly
+  - scipy
+  - scikit-learn
+  - ipywidgets
+  - ipyfilechooser
+  - panel
+  - jupyterlab == 3
+  - openpyxl
+  - jupyter_bokeh
